@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: new name for about
-
+        text: Resume
+        
 format:
   html:
     theme: cosmo

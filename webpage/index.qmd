@@ -1,5 +1,19 @@
+
 ---
 title: "Neetu Regmi"
+image: "Screen Shot 2021-04-28 at 11.56.13 AM.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: YouTube
+    url: "https://youtube.com/"
+  - label: Vimeo
+    url: "https://vimeo.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::onofre
 ---
-
-This is the webpage home!
