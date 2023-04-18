@@ -6,7 +6,7 @@ website:
   title: "webpage"
   navbar:
     background: '#0fbfcf'
-    color: '#49a7e9'
+    color: blue
     left:
       - href: index.qmd
         text: Home
