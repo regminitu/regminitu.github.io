@@ -2,7 +2,6 @@
 ---
 title: "Neetu Regmi"
 about:
-  id: hero-heading
   template: jolla
   image: "Screen Shot 2021-04-28 at 11.56.13 AM.png"
   links:
