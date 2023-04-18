@@ -5,7 +5,8 @@ project:
 website:
   title: "webpage"
   navbar:
-    background: '#49a7e9'
+    background:  '#f8f8f8'
+    color: '#49a7e9'
     left:
       - href: index.qmd
         text: Home
